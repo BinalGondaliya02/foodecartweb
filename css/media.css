@@ -1,0 +1,657 @@
+@keyframes sdb07 {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
+}
+
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+  /* .main-navigation {
+    display: none;
+  } */
+  .site-social-media {
+    left: 0;
+  }
+
+  .banner-content {
+    width: 100%;
+  }
+
+  .banner-content p {
+    width: 62%;
+    margin-left: 210px;
+    font-size: 15px;
+  }
+
+  .h1-title {
+    font-size: 73px;
+  }
+
+  .top-items-tab-list .nav-tabs .nav-item {
+    padding: 0 15px;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    overflow: hidden;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+  /* .main-navigation {
+    display: none;
+  } */
+  .site-social-media {
+    left: 0;
+  }
+
+  .menu li {
+    margin-left: 11px;
+  }
+
+  .banner-content {
+    width: 100%;
+  }
+
+  .banner-content p {
+    width: 62%;
+    margin-left: 210px;
+    font-size: 15px;
+  }
+
+  .h1-title {
+    font-size: 73px;
+  }
+
+  .site-social-icon a {
+    width: 40px;
+    height: 40px;
+    margin-left: 7px;
+  }
+
+  .subscribe-form h4 {
+    font-size: 26px;
+  }
+
+  .footer-menu ul li a {
+    font-size: 14px;
+    line-height: 0;
+    letter-spacing: 0;
+  }
+
+  .footer-menu ul li {
+    margin-left: 10px;
+    padding-left: 11px;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    overflow: auto;
+  }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .hdr {
+    z-index: 100;
+  }
+
+  .offcanvas-body {
+    right: 0;
+    opacity: 1;
+    z-index: 1;
+  }
+
+  .site-social-media {
+    display: none;
+  }
+
+  .banner-content {
+    width: 100%;
+  }
+
+  .banner-content p {
+    width: 62%;
+    margin-left: 123px;
+    font-size: 14px !important;
+    line-height: 24px;
+  }
+
+  .h1-title {
+    font-size: 61px;
+  }
+
+  .scroll-down {
+    display: none;
+  }
+
+  .common-sec {
+    padding-top: 100px;
+  }
+
+  .h2-title:before {
+    display: none;
+  }
+
+  .h2-title:after {
+    display: none;
+  }
+
+  .h2-title {
+    font-size: 43px;
+    margin-top: 40px !important;
+  }
+
+  .tab-content-text .h3-title {
+    margin-top: 29px;
+  }
+
+  .client {
+    left: 41%;
+  }
+
+  .submit-btn {
+    text-align: center;
+  }
+
+  .footer-logo {
+    width: 250px;
+    margin: 0 auto 37px auto;
+  }
+
+  .site-social-icon {
+    text-align: center;
+    margin-bottom: 37px;
+  }
+
+  .footer-content {
+    padding: 00;
+    text-align: center;
+    margin-bottom: 37px;
+  }
+
+  .subscribe-form h4 {
+    text-align: center;
+  }
+
+  .subscribe-form h4:before {
+    left: 50%;
+    transform: translate(-50%);
+  }
+
+  .subscribe-form button#send {
+    width: 50px;
+    font-size: 18px;
+  }
+
+  .toggle-button {
+    display: block;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    overflow: auto;
+  }
+
+  .page-about-img-box {
+    width: 100%;
+  }
+
+  .about-img-box img {
+    top: 345px;
+  }
+
+  .why-foodecart-box {
+    padding: 0;
+    margin-bottom: 50px;
+  }
+
+  .why-foodecart-box:before,
+  .why-foodecart-box:after {
+    width: 0;
+  }
+
+  .about-counter-box {
+    margin-bottom: 40px;
+  }
+
+  .client:before {
+    top: -48px;
+  }
+  .tab-content-img-box{
+    margin-top: 50px;
+  }
+  .chef-tital h1{
+    font-size: 25px;
+  }
+  .page-post-img-box{
+    width: 100%;
+  }
+  .page-post-content{
+    margin-left: 16px;
+  }
+  .common-sidebar-box ul{
+    padding-left: 0;
+  }
+  .footer-contact .h2-title{
+    text-align: center;
+  }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  .main-banner {
+    padding: 165px 0 200px 0;
+  }
+
+  .site-social-media {
+    display: none;
+  }
+
+  .banner-content {
+    width: 100%;
+  }
+
+  .banner-content p {
+    width: 74%;
+    margin-left: 77px;
+    font-size: 14px !important;
+    line-height: 24px;
+  }
+
+  .h1-title {
+    font-size: 67px;
+    line-height: 77px;
+    margin-bottom: 10px;
+  }
+
+  .scroll-down {
+    display: none;
+  }
+
+  .sec-btn-transparent {
+    width: 177px;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    overflow: auto;
+  }
+
+  .about-counter-box {
+    margin-bottom: 40px;
+  }
+
+  .page-about-img-box {
+    width: 100%;
+  }
+
+  .about-img-box img {
+    top: 313px;
+  }
+
+  .welcome-content .h2-title {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #about-us.main-welcome {
+    padding-bottom: 0;
+  }
+  .why-foodecart-box:before
+{
+    content: unset;
+}
+.why-foodecart-box{
+  margin-bottom: 20px;
+}
+.h2-title3{
+  font-size: 35px;
+}
+.main-blog{
+  padding: 10px 0;
+}
+.blog-title .h2-title{
+  font-size: 35px;
+  padding: 0;
+}
+.blog-post{
+  margin-bottom: 20px;
+}
+.post-img-box{
+  width: 100%;
+}
+.post-content{
+  margin-left: 16px;
+}
+.footer-logo{
+  text-align: center;
+}
+.footer-logo img{
+  width: 50%;
+}
+.site-social-icon{
+  text-align: center;
+}
+.footer-content{
+  padding: 0;
+}
+.footer-menu ul li a{
+  font-size: 14px;
+}
+.footer-menu{
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.subscribe-form h4{
+  font-size: 28px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.subscribe-form button#send{
+  background-color:#ff4f00 !important;
+}
+.subscribe-form{
+  text-align: center;
+}
+.subscribe-form h4:before{
+  left: 204px;
+}
+.submit-btn{
+  text-align: center;
+}
+.tab-content-img-box{
+  margin-top: 50px;
+}
+.page-post-img-box{
+  width: 100%;
+}
+.page-post-content{
+  margin-left: 16px;
+}
+.blog-pagination a{
+  margin: 0 7px 14px -1px;
+}
+.common-sidebar-box ul{
+  padding-left: 0;
+}
+.footer-contact .h2-title{
+  text-align: center;
+}
+}
+
+@media(max-width: 575px) {
+  .main-banner {
+    padding: 165px 0 200px 0;
+  }
+
+  .site-social-media {
+    display: none;
+  }
+
+  .banner-content {
+    width: 100%;
+  }
+
+  .banner-content p {
+    width: 74%;
+    margin-left: 77px;
+    font-size: 14px !important;
+    line-height: 18px;
+    margin-bottom: 10px;
+  }
+
+  .h1-title {
+    font-size: 66px;
+    line-height: 64px;
+    margin-bottom: 20px;
+  }
+
+  .sec-btn-transparent {
+    margin-top: 40px;
+  }
+
+  .common-sec {
+    padding-top: 109px;
+    padding-bottom: 90px;
+  }
+
+  .h2-title:before {
+    display: none;
+  }
+
+  .h2-title:after {
+    display: none;
+  }
+
+  .welcome-content .h2-title {
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+
+  .container {
+    padding: 0 30px !important;
+  }
+
+  .h2-title3 {
+    font-size: 40px;
+  }
+
+  .top-items-tab-list .nav-tabs .nav-item .nav-link {
+    height: 120px;
+  }
+
+  .top-items-tab-list .nav-tabs .nav-item .nav-link>span {
+    font-size: 22px;
+  }
+
+  .top-items-tab-list .nav-tabs .nav-item {
+    flex: 0 0 50%;
+    max-width: 50%;
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    flex-flow: nowrap;
+  }
+
+  .tab-content-img-off {
+    width: 65px;
+    height: 70px;
+  }
+
+  .tab-content-img-off p {
+    font-size: 22px;
+    line-height: 32px;
+  }
+
+  .tab-content-text {
+    padding-top: 35px;
+  }
+
+  .h3-title {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .tab-content-text p {
+    font-size: 14px;
+    color: #666666;
+  }
+
+  .h2-title {
+    font-size: 40px;
+    line-height: 40px;
+  }
+
+  .footer-contact .h2-title {
+    text-align: center;
+  }
+
+  .submit-btn {
+    text-align: center;
+  }
+
+  .footer-logo,
+  .site-social-icon {
+    margin-bottom: 40px;
+  }
+
+  .footer-logo {
+    width: 250px;
+    margin: 0 auto 37px auto;
+  }
+
+  .site-social-icon {
+    text-align: center;
+  }
+
+  .footer-menu ul li:first-child {
+    margin-top: 0;
+  }
+  .footer-menu ul li {
+    display: block;
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    border-left: none;
+  }
+
+  .subscribe-form h4 {
+    text-align: center;
+    margin-top: 40px;
+  }
+
+  .subscribe-form h4:before {
+    left: 50%;
+    transform: translate(-50%);
+  }
+
+  .subscribe-form button#send {
+    width: 50px;
+    font-size: 18px;
+  }
+
+  .top-items-tab-list .nav-tabs {
+    overflow: auto;
+  }
+  .page-about-img-box{
+    width: 100%;
+  }
+  .welcome-content .h2-title {
+    font-size: 35px;
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  #about-us.main-welcome {
+    padding-bottom: 0;
+  }
+  .why-foodecart-box:before
+{
+    content: unset;
+}
+.why-foodecart-box{
+  margin-bottom: 20px;
+}
+.h2-title3{
+  font-size: 35px;
+}
+.main-blog{
+  padding: 10px 0;
+}
+.blog-title .h2-title{
+  font-size: 35px;
+  padding: 0;
+}
+.blog-post{
+  margin-bottom: 20px;
+}
+.post-img-box{
+  width: 100%;
+}
+.post-content{
+  margin-left: 16px;
+}
+.footer-logo{
+  text-align: center;
+}
+.footer-logo img{
+  width: 50%;
+}
+.site-social-icon{
+  text-align: center;
+  margin-bottom:10px;
+}
+.footer-content{
+  padding: 0;
+}
+.footer-menu ul li a{
+  font-size: 14px;
+}
+.footer-menu{
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.subscribe-form h4{
+  font-size: 28px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.subscribe-form button#send{
+  background-color:#ff4f00 !important;
+}
+.subscribe-form{
+  text-align: center;
+}
+.subscribe-form h4:before{
+  left: 250px;
+}
+.submit-btn{
+  text-align: center;
+}
+.about-counter-box{
+  margin-bottom: 30px;
+}
+.tab-content-img-box{
+  margin-top: 50px;
+}
+.page-post-img-box{
+  width: 100%;
+}
+.page-post-content{
+  margin-left: 16px;
+}
+.blog-pagination a{
+  margin: 0 7px 14px -1px;
+}
+.common-sidebar-box ul{
+  padding-left: 0;
+}
+.footer-contact .h2-title{
+  text-align: center;
+}
+.h3-title, .h3-title a{
+  font-size: 23px;
+  line-height: 26px;
+}
+}
+
+@media (min-width: 768px) {
+
+  .container,
+  .container-md,
+  .container-sm {
+    max-width: 100% !important;
+    padding: 0 30px !important;
+  }
+}
